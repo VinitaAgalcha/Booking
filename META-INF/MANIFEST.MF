@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: BookingFramework
+Bundle-SymbolicName: BookingFramework
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com.rp.qa.base,
+ com.rp.qa.config,
+ com.rp.qa.pages,
+ com.rp.qa.util
